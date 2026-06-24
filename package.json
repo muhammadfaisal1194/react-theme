@@ -99,7 +99,7 @@
     "tabler-icons": "^1.10.0"
   },
   "devDependencies": {
-    "@babel/core": "7.10.4",
+    "@babel/core": "7.29.6",
     "@babel/plugin-proposal-class-properties": "7.10.4",
     "@babel/plugin-proposal-optional-chaining": "^7.10.4",
     "@svgr/webpack": "5.4.0",
